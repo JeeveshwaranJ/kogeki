@@ -182,6 +182,19 @@ const attacks = {
         gif: "https://media1.tenor.com/m/cUTX3c265cEAAAAC/water-breathing-power.gif",
         localFile: "assets/gifs/waterbreathing.gif",
         description: "Unleashes a flowing, continuous dragon blade slash of high-speed water."
+    },
+
+    fart: {
+        name: "Fart",
+        anime: "Anime",
+        emoji: "💨",
+        minDamage: 25,
+        maxDamage: 80,
+        cooldown: 4,
+        color: "#8BC34A",
+        gif: "https://media1.tenor.com/m/QVmVpgsRCesAAAAC/anime-fart.gif",
+        localFile: "assets/gifs/fart.gif",
+        description: "Unleashes a lethal bio-gas blast directly on the target!"
     }
 };
 
