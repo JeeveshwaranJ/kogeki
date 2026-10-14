@@ -195,6 +195,45 @@ const attacks = {
         gif: "https://media1.tenor.com/m/QVmVpgsRCesAAAAC/anime-fart.gif",
         localFile: "assets/gifs/fart.gif",
         description: "Unleashes a lethal bio-gas blast directly on the target!"
+    },
+
+    slipper: {
+        name: "Slipper",
+        anime: "Anime",
+        emoji: "🩴",
+        minDamage: 30,
+        maxDamage: 75,
+        cooldown: 4,
+        color: "#FF9800",
+        gif: "https://media1.tenor.com/m/Gqt_vhCUwh0AAAAC/the-demon-prince-of-momochi-shoe.gif",
+        localFile: "assets/gifs/slipper.gif",
+        description: "Throws a high-velocity precision slipper right at the target's face!"
+    },
+
+    nuke: {
+        name: "Nuke",
+        anime: "Anime",
+        emoji: "☢️",
+        minDamage: 110,
+        maxDamage: 210,
+        cooldown: 15,
+        color: "#FF3D00",
+        gif: "https://media1.tenor.com/m/V6k3KbrycpsAAAAC/anime-explosion.gif",
+        localFile: "assets/gifs/nuke.gif",
+        description: "Drops a colossal tactical atomic explosion, vaporizing the entire battlefield!"
+    },
+
+    grope: {
+        name: "Grope",
+        anime: "Anime",
+        emoji: "👐",
+        minDamage: 30,
+        maxDamage: 85,
+        cooldown: 5,
+        color: "#E91E63",
+        gif: "https://24.media.tumblr.com/7c1a0347bad4e4930699c4deea4cc919/tumblr_mkke80kTLV1s83c9go1_500.gif",
+        localFile: "assets/gifs/grope.gif",
+        description: "A sneaky comedic grope attack causing maximum embarrassment and psychological damage!"
     }
 };
 
@@ -209,7 +248,10 @@ const aliases = {
     purple: 'hollowpurple',
     saitama: 'seriouspunch',
     punch: 'seriouspunch',
-    genkidama: 'spiritbomb'
+    genkidama: 'spiritbomb',
+    shoe: 'slipper',
+    chappal: 'slipper',
+    explosion: 'nuke'
 };
 
 /**

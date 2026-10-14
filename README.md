@@ -11,7 +11,7 @@ Supports **both Prefix commands (`!`) and official Discord Slash commands (`/`)*
 - **Dual Command Support**:
   - Prefix commands: `!rasengan @user`
   - Slash commands: `/rasengan user:@user`
-- **14+ Iconic Anime Attacks & Special Moves**:
+- **17+ Iconic Anime Attacks & Special Moves**:
   - `!rasengan` / `/rasengan` (Naruto)
   - `!chidori` / `/chidori` (Naruto)
   - `!getsuga` / `/getsuga` (Bleach)
@@ -26,6 +26,9 @@ Supports **both Prefix commands (`!`) and official Discord Slash commands (`/`)*
   - `!spiritbomb` / `/spiritbomb` (Dragon Ball Z)
   - `!waterbreathing` / `/waterbreathing` (Demon Slayer)
   - `!fart` / `/fart` (Anime Fart Attack)
+  - `!slipper` / `/slipper` (Anime Slipper Throw)
+  - `!nuke` / `/nuke` (Colossal Tactical Anime Explosion)
+  - `!grope` / `/grope` (Comedic Sneak Attack)
   - `!attack <name> @user` / `/attack attack:<name> user:@user` (Universal syntax)
 - **Shared, Reusable Engine**:
   - Prefix and Slash commands share the exact same attack execution logic, cooldowns, and damage calculations.

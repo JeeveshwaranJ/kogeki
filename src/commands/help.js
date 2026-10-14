@@ -32,6 +32,9 @@ async function handleHelp(context) {
                     `• \`${prefix}spiritbomb @user\`  |  \`/spiritbomb user:@user\``,
                     `• \`${prefix}waterbreathing @user\`  |  \`/waterbreathing user:@user\``,
                     `• \`${prefix}fart @user\`  |  \`/fart user:@user\``,
+                    `• \`${prefix}slipper @user\`  |  \`/slipper user:@user\``,
+                    `• \`${prefix}nuke @user\`  |  \`/nuke user:@user\``,
+                    `• \`${prefix}grope @user\`  |  \`/grope user:@user\``,
                     `• \`${prefix}attack <name> @user\`  |  \`/attack attack:<name> user:@user\``
                 ].join('\n'),
                 inline: false
